@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Marcelo Meira
 
-![Marcelones GitHub stats](https://github-readme-stats.vercel.app/api?username=Ciber-marcelo&show_icons=true&theme=github_dark&count_private=true)
+Apaixonado por tecnologia e jogos eletrônicos, meus projetos geralmente são relacionados a jogos.
 
 ## Tecnologias que eu uso
 
@@ -12,8 +12,6 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
-
-Apaixonado por tecnologia e jogos eletrônicos, meus projetos geralmente são relacionados a jogos.
 
 ### Projetos recentes:
 - [Pokédex](https://pokedex-marcelones.vercel.app/)<br/>
