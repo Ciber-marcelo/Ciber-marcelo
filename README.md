@@ -15,6 +15,7 @@ Apaixonado por tecnologia e jogos eletrônicos, meus projetos geralmente são re
 </div><br/>
 
 ### Projetos recentes:
+- [Blue Lock](https://github.com/Ciber-marcelo/blue-lock)<br/>
 - [Portfólio](https://github.com/Ciber-marcelo/portfolio)<br/>
 - [Pokédex](https://github.com/Ciber-marcelo/Pokedex)<br/>
 
