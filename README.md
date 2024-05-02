@@ -18,9 +18,10 @@ Apaixonado por tecnologia e jogos eletrônicos, meus projetos pessoais geralment
 </a>
 
 ## Projetos recentes:
+- [Battle of heroes](https://github.com/Ciber-marcelo/battle-of-heroes)<br/>
 - [Blue Lock](https://github.com/Ciber-marcelo/blue-lock)<br/>
 - [Portfólio](https://github.com/Ciber-marcelo/portfolio)<br/>
-- [Pokédex](https://github.com/Ciber-marcelo/Pokedex)<br/>
+
 
 
 
